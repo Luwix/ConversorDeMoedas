@@ -1,5 +1,12 @@
-# Conversor De Moedas💲
-### Conversor de moedas, utilizando Python, PySimpleGui e uma requisição de API de moedas
+# Conversor De Moedas 💲
+### Conversor de moedas, utilizando Python, PySimpleGui e uma requisição de API de moedas 
+
+<br>
+
+#### API Utilizada:
+```text
+https://api.exchangerate-api.com/v4/latest/BRL
+```
 
 <br>
 
@@ -14,3 +21,4 @@
 
   <img src="https://media.discordapp.net/attachments/912132834527948861/1101003964348121149/image.png">
 </div>
+
