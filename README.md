@@ -1,5 +1,5 @@
 # Conversor De Moedas 💲
-### Conversor de moedas, utilizando Python, PySimpleGui e uma requisição API de moedas 
+### Conversão de moedas, utilizando Python, PySimpleGui e requisição API
 
 <br>
 
