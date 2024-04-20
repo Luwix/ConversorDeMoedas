@@ -1,5 +1,5 @@
 # Conversor De Moedas 💲
-### O projeto é um programa desenvolvido em Python utilizando a biblioteca PySimpleGui e uma API de conversão de moedas para fornecer informações atualizadas sobre o valor convertido de uma moeda específica.
+### O projeto é um programa desenvolvido em Python, utilizando a biblioteca PySimpleGui e integrando uma API de conversão de moedas para fornecer informações atualizadas sobre o valor convertido de uma moeda específica.
 
 
 <br>
